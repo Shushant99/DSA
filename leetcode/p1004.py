@@ -1,4 +1,4 @@
-nums=[0,0,0,1]
+nums=[1,1,1,1]
 k=4
 left=0
 zeros=0
